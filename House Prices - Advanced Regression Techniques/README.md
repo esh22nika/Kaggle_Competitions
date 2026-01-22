@@ -8,3 +8,4 @@ Practice: linear regression / multivariate regression, regularization variants (
 Link: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques  
 
 # RMSE SCORE: 0.13353 
+# Leaderboard Rank: 2049
